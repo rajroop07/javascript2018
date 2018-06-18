@@ -1,0 +1,4 @@
+This will be used to keep notes
+
+git config --global user.email "rajroop.roy@gmail.com"
+  git config --global user.name "Rajroop07"
